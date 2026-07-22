@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- 2. НАСТРОЙКИ И КОЭФФИЦИЕНТЫ ---
-BOT_TOKEN = "8802489510:AAGDheEBcau1l6SJ9kYbLdd3gxDznrAYleA
+BOT_TOKEN = "8802489510:AAGDheEBcau1l6SJ9kYbLdd3gxDznrAYleA"
 ADMIN_ID =8364227920
 PORT = int(os.getenv("PORT", "8000"))
 
