@@ -18,8 +18,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- 2. НАСТРОЙКИ И КОЭФФИЦИЕНТЫ ---
-BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", os.getenv("BOT_TOKEN", ""))
-ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
+BOT_TOKEN = "8802489510:AAGDheEBcau1l6SJ9kYbLdd3gxDznrAYleA
+ADMIN_ID =8364227920
 PORT = int(os.getenv("PORT", "8000"))
 
 TARGET_BG = 5.5   # Целевой сахар (ммоль/л)
